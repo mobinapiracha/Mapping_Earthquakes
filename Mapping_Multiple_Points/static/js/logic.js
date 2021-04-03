@@ -53,5 +53,6 @@ streets.addTo(map);
 // Loop through the cities array and create one market for each city
 cities.forEach(function(city) {
   console.log(city)
-  L.marker(city.location).addTo(map);});
+  L.marker(city.location).addTo(map);
+});
 
