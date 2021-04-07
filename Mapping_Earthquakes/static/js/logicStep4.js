@@ -1,3 +1,4 @@
+// Adding a toggle option for the Earthquakes (i.e. adding overlays to the maps)
 // Add console.log to check to see if our code is working.
 console.log("working");
 

@@ -1,3 +1,4 @@
+// Adding a popup giving earthquake description and showing different colors for different magnitudes 
 // Add console.log to check to see if our code is working.
 console.log("working");
 
